@@ -54,7 +54,7 @@
             "App\\": "app/",
             "Modules\\": "Modules/",
              "Database\\Factories\\": "database/factories/",
-            "Database\\Seeders\\": "database/seeds/"
+            "Database\\Seeders\\": "database/seeders/"
         },
         "classmap": [
             "database/seeders",
@@ -81,7 +81,3 @@
         ]
     }
 }
-
-
-
-
