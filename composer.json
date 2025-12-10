@@ -57,7 +57,7 @@
             "Database\\Seeders\\": "database/seeds/"
         },
         "classmap": [
-            "database/seeds",
+            "database/seeders",
             "database/factories"
         ]
     },
@@ -81,6 +81,7 @@
         ]
     }
 }
+
 
 
 
